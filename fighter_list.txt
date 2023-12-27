@@ -1,0 +1,338 @@
+0
+Arlington, Texas
+1
+West Monroe, Louisiana
+2
+Yuma, Arizona
+3
+Englewood, Colorado
+4
+Los Angeles, California, United States
+5
+Glendale, Arizona
+6
+San Antonio, Texas
+7
+Bridgewater, Massachusetts
+8
+Dolton, Illinois
+9
+Anchorage, Alaska
+10
+Springfield Township, Pennsylvania, United States
+11
+Shiner, Texas, USA
+12
+Beaumont, Texas
+13
+Atlanta, Georgia, United States
+14
+State College, Pennsylvania, United States
+15
+Tampa, Florida
+16
+Methuen, Massachusetts
+17
+Chicago, Illinois, United States
+18
+Dallas, Texas
+19
+Las Vegas, Nevada
+20
+Grove City, Ohio
+21
+Las Vegas, Nevada
+22
+Gastonia, North Carolina, USA
+23
+Fort Worth, Texas
+24
+Detroit, Michigan
+25
+Arizona
+26
+Somerville, Massachusetts
+27
+Albuquerque, New Mexico
+28
+Pennsylvania
+29
+Portland, Oregon
+30
+Houston, Texas, USA
+31
+Clarksville, Tennessee
+32
+Birmingham, Alabama
+33
+Stockton, California
+34
+Weslaco, Texas
+35
+California
+36
+Fowlerville, Michigan
+37
+None
+38
+Sacramento, California
+39
+Franklinton, Louisiana
+40
+Elmwood Park, Illinois
+41
+Arizona, USA
+42
+Brick, New Jersey
+43
+Nashville, Tennessee
+44
+Orlando, Florida
+45
+Victorville, California
+46
+Pennsylvania
+47
+Phoenix, Arizona
+48
+Fayetteville, North Carolina, United States
+49
+Greeley, Colorado
+50
+Sacramento, California
+51
+Scottsdale, Arizona
+52
+Ventura, California
+53
+Sunrise, Florida, USA
+54
+Dallas, Texas
+55
+Plainview, Texas
+56
+Hilo, Hawaii
+57
+Missouri
+58
+Texas
+59
+Pensacola, Florida, United States
+60
+Long Island, New York
+61
+Dunnigan, California
+62
+Falls Church, Virginia, United States
+63
+San Antonio, Texas
+64
+Las Vegas, Nevada
+65
+New Jersey
+66
+Hampstead, New Hampshire
+67
+Simi Valley, California
+68
+Chicago, Illinois
+69
+Englewood, Colorado, USA
+70
+Las Vegas, Nevada
+71
+Simpsonville, South Carolina
+72
+New Jersey
+73
+Florida
+74
+Albuquerque, New Mexico
+75
+Sacramento, California
+76
+Garden City Park, New York
+77
+Las Vegas, Nevada
+78
+Johnsburg, Illinois
+79
+San Diego, California
+80
+Dallas, Texas
+81
+Torrance, California
+82
+Sacramento, California
+83
+Orlando, Florida
+84
+Boston, Massachusetts
+85
+Vancouver, Washington
+86
+Los Angeles, California
+87
+Sacramento, California
+88
+Palm Springs, California, United States
+89
+Tampa, Florida
+90
+Cincinnati, Ohio
+91
+Greeley, Colorado
+92
+Denver, Colorado
+93
+Sao Paulo, Brazil
+94
+Telford, Pennsylvania
+95
+Henderson, Kentucky
+96
+Enumclaw, Washington, United States
+97
+Searcy, Arkansas
+98
+Dallas, Texas, USA
+99
+King of Prussia, Pennsylvania
+100
+Frederick, Maryland
+101
+Lee's Summit, Missouri
+102
+Mason City, Iowa
+103
+Spokane, Washington
+104
+Rio de Janeiro, Rio de Janeiro, Brazil
+105
+Phoenix, Arizona
+106
+Sand Springs, Oklahoma
+107
+Phoenix, Arizona, USA
+108
+Illinois
+109
+Long Island, New York
+110
+Denver, Colorado
+111
+Jacksonville Beach, Florida, United States
+112
+Las Vegas, Nevada
+113
+Bronx, New York
+114
+Saint Louis, Missouri
+115
+Oahu, Hawaii
+116
+Las Vegas, Nevada
+117
+Milwaukee, Wisconsin
+118
+Florida, United States
+119
+New York, USA
+120
+Las Vegas, Nevada
+121
+None
+122
+Mission, Texas
+123
+Rio de Janeiro, Rio de Janeiro, Brazil
+124
+Lafayette, Louisiana
+125
+Houston, Texas
+126
+Glendale, Arizona
+127
+McAllen, Texas
+128
+Philadelphia, Pennsylvania
+129
+Sparta, Michigan
+130
+Huntington Beach, California
+131
+Downey, California
+132
+Little Ferry, New Jersey
+133
+Rio de Janeiro, Rio de Janeiro, Brazil
+134
+Bethel, Connecticut
+135
+Albuquerque, New Mexico
+136
+Minneapolis, Minnesota, USA
+137
+Baldwin, New York
+138
+Chihuahua, Mexico
+139
+Oregon
+140
+Sacramento, California
+141
+Dallas, Texas
+142
+Cape Coral, Florida
+143
+Powell, Ohio
+144
+Deerfield Beach, Florida
+145
+Gwinnett, Georgia, United States
+146
+Las Vegas, Nevada
+147
+Haleiwa, Hawaii
+148
+Boca Raton, Florida
+149
+Las Vegas, Nevada
+150
+Houston, Texas
+151
+Selden, New York
+152
+Albuquerque, New Mexico
+153
+Wailuku, Hawaii
+154
+Albuquerque, New Mexico
+155
+Las Vegas, Nevada
+156
+Milwaukee, Wisconsin
+157
+New Jersey
+158
+Groton, Connecticut
+159
+Orem, Utah
+160
+Las Vegas, Nevada
+161
+Yakima, Washington
+162
+Reno, Nevada
+163
+Coconut Creek, Florida, USA
+164
+Arizona
+165
+Albuquerque, New Mexico
+166
+San Miguel, Lima, Peru
+167
+River Falls, Wisconsin
+168
+Phoenix, Arizona
